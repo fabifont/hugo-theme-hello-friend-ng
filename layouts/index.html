@@ -15,6 +15,10 @@
                     {{ partial "social-icons.html" . }}
                 </div>
             {{- end }}
+
+            {{- with .Site.Params.homeSubtitleExtra }}
+                <a href="about">{{.}}</a>
+            {{- end }}
         </div>
     </main>
 {{ end }}

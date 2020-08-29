@@ -73,7 +73,7 @@ paginate     = 10
 
   # Subtitle for home
   homeSubtitle = "A simple and beautiful blog"
-
+  homeSubtitleExtra = "More info..."
   # Set disableReadOtherPosts to true in order to hide the links to other posts.
   disableReadOtherPosts = false
 

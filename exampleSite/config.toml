@@ -59,6 +59,7 @@ disableHugoGeneratorInject = false
   images = [""]
 
   homeSubtitle = "Hello Friend NG"
+  homeSubtitleExtra = "Hello again!"
 
   # Prefix of link to the git commit detail page. GitInfo must be enabled.
   # gitUrl = ""
